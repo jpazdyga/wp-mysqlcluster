@@ -1,0 +1,3 @@
+---
+- name: export host IPs to scriptfiles
+  shell: sh ./roles/master/dbscript.sh

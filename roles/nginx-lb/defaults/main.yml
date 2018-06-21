@@ -1,0 +1,7 @@
+---
+nginx_service_name: nginx
+nginx_yum_packages:
+ - nginx
+apache1: 172.16.1.219
+apache2: 172.16.1.94
+nginxip: 18.196.30.87

@@ -1,0 +1,12 @@
+---
+mysql_service_name: mariadb
+mysql_yum_packages:
+  - mariadb
+  - mariadb-server
+  - mariadb-libs
+  - MySQL-python
+  - perl-DBD-MySQL
+mysql_root_password: redhat7
+master_ip: 172.16.1.166
+log_file_name: 
+pos_value: 
