@@ -1,4 +1,6 @@
 
+Thanks to: https://github.com/abhijitsharma806/aws-ansible-mysql-nginx-apache-wordpress
+
 Install and Configure AWS(EC2-VPC)-MySQL-Nginx-Apache-Wordpress by Ansible
 ==========================================================================
 
